@@ -1,0 +1,25 @@
+h1{
+    text-align:center;
+    background-color: #C4C4C4;
+}
+.fondoCabecera{
+    background: #E5E5E5;
+
+}
+
+.piePagina{
+    background: #005677;
+    color: white;
+    text-align: center;
+
+}
+.piePagina span{
+    font-size: 24px;
+}
+
+.subtitulo{
+    background: #C4C4C4;
+    color: #005677;
+;
+
+}
